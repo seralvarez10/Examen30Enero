@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+}
+p{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    margin: 5%;
+}
